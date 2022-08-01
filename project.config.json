@@ -1,0 +1,13 @@
+{
+    "miniprogramRoot": "./dist",
+    "projectname": "remove-watermark",
+    "description": "短视频去水印",
+    "appid": "这里填微信小程序的APPID",
+    "setting": {
+        "urlCheck": true,
+        "es6": false,
+        "postcss": false,
+        "minified": false
+    },
+    "compileType": "miniprogram"
+}
