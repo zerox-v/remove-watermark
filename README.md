@@ -12,7 +12,7 @@
 #### 使用微信小程序工具打开 当前项目下的 `dist` 文件夹
 
 ### 后端源码地址
-[后端源码地址](https://github.com/zerox-v/ToolApi)
+[后端源码地址](https://github.com/zerox-v/tool-api)
 
 
 
